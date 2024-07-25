@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Learning New Technologys....
 
 
-HTML   CSS   JavaScript   React   Redux    Material UI   NodeJS   MySQL   MySQL   Git 
+HTML   CSS   JavaScript   React  MaterialUI   Bootstrap  NodeJS  ExpressJS  MongoDB MySQL  Git 
 
 
 <!---
